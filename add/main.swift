@@ -15,3 +15,4 @@ for i in 1...99
     sum+=i;
 }
 print(sum)
+
